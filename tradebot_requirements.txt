@@ -1,0 +1,13 @@
+fqdn
+ipywidgets
+isoduration
+jsonpointer
+lightgbm
+notebook
+optuna
+pip-chill
+scikit-learn
+talipp
+tinycss2
+uri-template
+webcolors
